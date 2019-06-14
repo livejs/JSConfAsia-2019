@@ -38,13 +38,15 @@ export default (
     <A>
       {/* <Title>Making of</Title> */}
 
+      <br />
+
       {/* <Title>
         <TextMarker>this.stage</TextMarker>
       </Title> */}
 
-      <Subtitle>
+      {/* <Subtitle>
         <TextMarker>Schedule</TextMarker>
-      </Subtitle>
+      </Subtitle> */}
 
       <Fragment order={0}>
         <Title>

@@ -23,10 +23,10 @@ const mySlides = [
   'modv',
   'luminave',
   'schedule',
-  'schedule-2',
   'schedule-3',
   'schedule-4',
   'schedule-5',
+  'schedule-2',
   'thank-you'
 ]
 

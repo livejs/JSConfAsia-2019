@@ -24,7 +24,7 @@ const notes = (
 )
 
 export default (
-  <Slide key={uuid()}>
+  <Slide key={uuid()} background={`url("media/live-js-logo.svg")`}>
     <Plugins.Data luminave={['']} />
     {notes}
 

@@ -31,8 +31,8 @@ export const Char = styled.span`
 `
 
 export const CharContainer = styled.div`
-  background: var(--theme-surface);
-  box-shadow: 0 0 0 1rem var(--theme-surface);
+  /* background: var(--theme-surface); */
+  /* box-shadow: 0 0 0 1rem var(--theme-surface); */
 `
 
 const RainbowText = props => {
