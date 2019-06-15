@@ -36,18 +36,18 @@ export default (
 
     <A>
       <h3>
-        <TextMarker>Jan Krutisch</TextMarker> (halfbyte 🔊)
+        <TextMarker>Jan Krutisch</TextMarker> = halfbyte 🔊
       </h3>
       <br />
-      <Fragment order={1}>
+      <Fragment order={0}>
         <Title>
           <RainbowText time={1} text="improjam" />
         </Title>
-        <h3>
+        <h4>
           <a href="https://github.com/halfbyte/improjam">
             github.com/halfbyte/improjam
           </a>
-        </h3>
+        </h4>
       </Fragment>
       {/* <Title>
         <TextMarker>this.stage</TextMarker>

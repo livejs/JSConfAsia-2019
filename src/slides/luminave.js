@@ -39,15 +39,15 @@ export default (
         <TextMarker>Tim Pietrusky</TextMarker> (NERDDISCO 🎆 ⚡️)
       </h3>
       <br />
-      <Fragment order={1}>
+      <Fragment order={0}>
         <Title>
           <RainbowText time={1} text="luminave" />
         </Title>
-        <h3>
+        <h4>
           <a href="https://github.com/NERDDISCO/luminave">
             github.com/NERDDISCO/luminave
           </a>
-        </h3>
+        </h4>
       </Fragment>
 
       {/* <Title>

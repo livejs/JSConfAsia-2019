@@ -32,16 +32,16 @@ export default (
 
     <A>
       <h3>
-        <TextMarker>Sam Wray</TextMarker> (2xAA 🔊 & NOSIGNAL 🎆)
+        <TextMarker>Sam Wray</TextMarker> = NOSIGNAL 🎆
       </h3>
       <br />
-      <Fragment order={1}>
+      <Fragment order={0}>
         <Title>
           <RainbowText time={1} text="modV" />
         </Title>
-        <h3>
+        <h4>
           <a href="https://modv.js.org/">modv.js.org</a>
-        </h3>
+        </h4>
       </Fragment>
 
       {/* <Title>

@@ -15,8 +15,7 @@ import {
   topCenter,
   LargeImage,
   MediumImage,
-  SmallImage,
-  AlmostLargeImage
+  SmallImage
 } from '../components/images'
 import {fade, flip, cube} from '@dekk/animation'
 import {StyledListLarge, StyledList} from '../components/list'
@@ -24,19 +23,23 @@ import {StyledListLarge, StyledList} from '../components/list'
 const {Slide, A} = Full
 // const {Slide, A, B} = Half
 
-const notes = (
-  <Notes>
-    <p />
-  </Notes>
-)
+const notes = <Notes />
 
 export default (
-  <Slide key={uuid()} background="#212121">
+  <Slide key={uuid()} background={`url("media/gameboy_advance.jpg")`}>
     <Plugins.Data luminave={['']} />
     {notes}
 
     <A>
-      {/* <Title>Making of</Title> */}
+      <h3>
+        <TextMarker>Sam Wray</TextMarker> = 2xAA 🔊
+      </h3>
+      <br />
+      <Fragment order={0}>
+        <Title>
+          <RainbowText time={1} text="Chiptune" />
+        </Title>
+      </Fragment>
 
       {/* <Title>
         <TextMarker>this.stage</TextMarker>
@@ -59,9 +62,12 @@ export default (
         </Fragment>
       </StyledList> */}
 
-      <AlmostLargeImage src="media/luminave-light-mapping.png" alt="" />
+      {/* <LargeImage 
+          src="media/"
+          alt=""
+      /> */}
 
-      {/* <FitImage src="media/luminave-light-mapping.png" alt="" /> */}
+      {/* <FitImage src="media/" alt="" /> */}
     </A>
 
     {/* <B>

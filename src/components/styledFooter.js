@@ -17,7 +17,7 @@ const StyledFooter = styled.footer`
   text-align: left;
   z-index: 1337;
   justify-content: space-between;
-  opacity: 0;
+  opacity: 0.3;
 `
 
 export default StyledFooter

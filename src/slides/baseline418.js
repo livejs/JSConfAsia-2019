@@ -15,33 +15,50 @@ import {
   topCenter,
   LargeImage,
   MediumImage,
-  SmallImage,
-  AlmostLargeImage
+  SmallImage
 } from '../components/images'
 import {fade, flip, cube} from '@dekk/animation'
 import {StyledListLarge, StyledList} from '../components/list'
+import {Griddd2} from '../components/grid'
 
 const {Slide, A} = Full
 // const {Slide, A, B} = Half
 
-const notes = (
-  <Notes>
-    <p />
-  </Notes>
-)
+const notes = <Notes />
 
 export default (
-  <Slide key={uuid()} background="#fff">
+  <Slide key={uuid()}>
     <Plugins.Data luminave={['']} />
     {notes}
 
     <A>
-      <FitImage
-        src="media/webusb_dmx512_controller.jpg"
-        alt="WebUSB DMX512 Controller"
-      />
+      <h3>
+        <TextMarker>Matt McKegg</TextMarker> = DESTROY WITH SCIENCE 🔊
+      </h3>
+      <br />
+      <Griddd2>
+        <div style={{textAlign: 'center'}}>
+          <Title>
+            <RainbowText time={1} text="baseline418" />
+          </Title>
+          <h4>
+            <a href="https://github.com/livejs/baseline418">
+              github.com/livejs/baseline418
+            </a>
+          </h4>
+        </div>
 
-      {/* <Title>Making of</Title> */}
+        <div style={{textAlign: 'center'}}>
+          <Title>
+            <RainbowText time={1} text="rust-loop-drop" />
+          </Title>
+          <h4>
+            <a href="https://github.com/mmckegg/rust-loop-drop">
+              github.com/mmckegg/rust-loop-drop
+            </a>
+          </h4>
+        </div>
+      </Griddd2>
 
       {/* <Title>
         <TextMarker>this.stage</TextMarker>
@@ -51,22 +68,23 @@ export default (
 
       {/* <StyledList>
         <Fragment order={2}>
-          <li></li>
+          <li class="light-border space-top"></li>
         </Fragment>
         <Fragment order={3}>
-          <li></li>
+          <li class="light-border"></li>
         </Fragment>
         <Fragment order={4}>
-          <li></li>
+          <li class="light-border"></li>
         </Fragment>
         <Fragment order={5}>
           <li class="no-border"></li>
         </Fragment>
       </StyledList> */}
 
-      {/* <AlmostLargeImage src="media/luminave-light-mapping.png" alt="" /> */}
-
-      {/* <FitImage src="media/luminave-light-mapping.png" alt="" /> */}
+      {/* <LargeImage 
+          src="media/"
+          alt=""
+      /> */}
     </A>
 
     {/* <B>

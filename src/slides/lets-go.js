@@ -11,11 +11,13 @@ import {RainbowText, TextMarker} from '../components'
 import {css} from 'styled-components'
 import {Grid, Half, Full, HalfVertical} from '../masters'
 import {ImportantLink} from '../components/links'
+import StyledFooter from '../components/styledFooter'
 import {
   topCenter,
   LargeImage,
   MediumImage,
-  SmallImage
+  SmallImage,
+  TopCenterImage
 } from '../components/images'
 import {fade, flip, cube} from '@dekk/animation'
 import {StyledListLarge, StyledList} from '../components/list'
@@ -23,7 +25,11 @@ import {StyledListLarge, StyledList} from '../components/list'
 const {Slide, A} = Full
 // const {Slide, A, B} = Half
 
-const notes = <Notes />
+const notes = (
+  <Notes>
+    <p />
+  </Notes>
+)
 
 export default (
   <Slide key={uuid()}>
@@ -31,47 +37,38 @@ export default (
     {notes}
 
     <A>
-      <h3>
-        <TextMarker>Jan Krutisch</TextMarker> &{' '}
-        <TextMarker>Matt McKegg</TextMarker>
-      </h3>
-      <br />
-      <Fragment order={1}>
-        <Title>
-          <RainbowText time={1} text="DOMinator" />
-        </Title>
-        <h3>
-          <a href="https://github.com/livejs/DOMinator">
-            github.com/livejs/DOMinator
-          </a>
-        </h3>
-      </Fragment>
+      <Title>
+        <TextMarker>LETS PARTY!</TextMarker>
+      </Title>
+
+      <TopCenterImage src="media/twinsparrot.gif" alt="Party Parrots" />
 
       {/* <Title>
         <TextMarker>this.stage</TextMarker>
       </Title> */}
-
       {/* <Subtitle></Subtitle> */}
-
       {/* <StyledList>
         <Fragment order={2}>
-          <li class="light-border space-top"></li>
+          <li></li>
         </Fragment>
         <Fragment order={3}>
-          <li class="light-border"></li>
+          <li></li>
         </Fragment>
         <Fragment order={4}>
-          <li class="light-border"></li>
+          <li></li>
         </Fragment>
         <Fragment order={5}>
           <li class="no-border"></li>
         </Fragment>
       </StyledList> */}
-
       {/* <LargeImage 
           src="media/"
           alt=""
       /> */}
+      {/* <FitImage src="media/" alt="" /> */}
+      <StyledFooter>
+        <a href="https://cultofthepartyparrot.com">cultofthepartyparrot.com</a>
+      </StyledFooter>
     </A>
 
     {/* <B>

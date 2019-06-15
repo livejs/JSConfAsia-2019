@@ -32,16 +32,16 @@ export default (
 
     <A>
       <h3>
-        <TextMarker>Ruth John</TextMarker> (Rumyra 🎆)
+        <TextMarker>Ruth John</TextMarker> = Rumyra 🎆
       </h3>
       <br />
-      <Fragment order={1}>
+      <Fragment order={0}>
         <Title>
           <RainbowText time={1} text="Vizra" />
         </Title>
-        <h3>
+        <h4>
           <a href="https://github.com/Rumyra/Vizra">github.com/Rumyra/Vizra</a>
-        </h3>
+        </h4>
       </Fragment>
 
       {/* <Subtitle><a href=""></a></Subtitle> */}

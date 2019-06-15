@@ -16,17 +16,28 @@ import LuminaveButton from './components/luminaveButton'
 const mySlides = [
   'cover', 
   'we-are-livejs',
-  'improjam',
-  'loop-drop',
-  'dominator',
-  'vizra',
-  'modv',
-  'luminave',
   'schedule',
+
+  'schedule-3',
+  'improjam',
+  'modv',
+
+  'schedule-4',
+  'baseline418',
+  'luminave',
+
+  'schedule-5',
+  '2xaa',
+  'vizra',
+
+  'lets-go',
+
   'schedule-3',
   'schedule-4',
   'schedule-5',
+
   'schedule-2',
+
   'thank-you'
 ]
 
@@ -55,7 +66,7 @@ const baseStyles = css`
   }
 
   h1 {
-    font-size: 4.25em;
+    font-size: 3.5em;
   }
 
   h2 {
@@ -64,6 +75,11 @@ const baseStyles = css`
 
   h3 {
     font-size: 2.25em;
+    margin: 0.5em 0 0 0;
+  }
+
+  h4 {
+    font-size: 1.75em;
     margin: 0.5em 0 0 0;
   }
 
@@ -125,12 +141,12 @@ class App extends Component {
           </StyledHeader>
 
           <StyledFooter isActive={true}>
-            <h1>
+            {/* <h1>
               <a href="https://twitter.com/LiveJS_network">@LiveJS_network</a>
             </h1>
             <h1>
               <a href="https://livejs.network">livejs.network</a>
-            </h1>
+            </h1> */}
           </StyledFooter>
         </Elements>
 
@@ -160,14 +176,14 @@ class App extends Component {
         {this.slides}
 
         <Elements mode={['default']}>
-          <StyledFooter isActive={true}>
+          {/* <StyledFooter isActive={true}>
             <h1>
               <a href="https://twitter.com/LiveJS_network">@LiveJS_network</a>
             </h1>
             <h1>
               <a href="https://livejs.network">livejs.network</a>
             </h1>
-          </StyledFooter>
+          </StyledFooter> */}
         </Elements>
       </Deck>
     )

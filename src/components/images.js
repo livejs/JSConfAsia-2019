@@ -27,6 +27,12 @@ export const ZoomImage = styled(MaskedImage)`
   ${topRight};
 `
 
+export const TopCenterImage = styled(MaskedImage)`
+  background-position: -10px center;
+  width: 100%;
+  height: 100%;
+`
+
 export const LargeImage = styled.img`
   height: 100vh;
 `

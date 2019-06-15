@@ -33,8 +33,7 @@ export default class Luminave extends Component {
    */
   componentDidMount() {
     if (this.props.subscribe) {
-
-      this.ws = new Sockette('ws://localhost:3001/dekk', {
+      this.ws = new Sockette('ws://localhost:3006/dekk', {
         timeout: 5e3,
         maxAttempts: 500,
         onopen: e => {
@@ -91,10 +90,8 @@ export default class Luminave extends Component {
    * @private
    */
   handleStore({key, oldValue, newValue}) {
-
     if (key === this.props.channel && oldValue !== newValue) {
-
-// console.log(oldValue, newValue)
+      // console.log(oldValue, newValue)
 
       this.handleMessage(JSON.parse(newValue))
     }
@@ -113,10 +110,10 @@ export default class Luminave extends Component {
     }
   }
 
- /**
-  * Send data rom the slide to luminave
-  */
- handleSlide(slideIndex) {
+  /**
+   * Send data rom the slide to luminave
+   */
+  handleSlide(slideIndex) {
     if (this.connected) {
       const {luminave = null} = this.props
       if (luminave !== null) {
