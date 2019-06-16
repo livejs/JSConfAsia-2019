@@ -15,8 +15,8 @@ Our show was split into different parts:
     - [🔊 DESTROY WITH SCIENCE & 🎆 NERDDISCO](#%F0%9F%94%8A-destroy-with-science--%F0%9F%8E%86-nerddisco)
     - [🔊 2xAA & 🎆 Rumyra](#%F0%9F%94%8A-2xaa--%F0%9F%8E%86-rumyra)
   - [Open Jam](#open-jam)
-  - [🔊 halfbyte with 🎆 NERDDISCO & Olivia Jack](#%F0%9F%94%8A-halfbyte-with-%F0%9F%8E%86-nerddisco--olivia-jack)
-  - [🔊 DESTROY WITH SCIENCE + 🔊 dtinth & 🎆 Olivia Jack](#%F0%9F%94%8A-destroy-with-science--%F0%9F%94%8A-dtinth--%F0%9F%8E%86-olivia-jack)
+    - [🔊 halfbyte with 🎆 NERDDISCO & Olivia Jack](#%F0%9F%94%8A-halfbyte-with-%F0%9F%8E%86-nerddisco--olivia-jack)
+    - [🔊 DESTROY WITH SCIENCE + 🔊 dtinth & 🎆 Olivia Jack](#%F0%9F%94%8A-destroy-with-science--%F0%9F%94%8A-dtinth--%F0%9F%8E%86-olivia-jack)
   - [Keep in touch](#keep-in-touch)
   - [Location](#location)
   - [Thank you](#thank-you)
@@ -61,7 +61,7 @@ Our slides are here:
 
 ## Open Jam
 
-## 🔊 halfbyte with 🎆 NERDDISCO & Olivia Jack
+### 🔊 halfbyte with 🎆 NERDDISCO & Olivia Jack
 
 [![halybyte with NERDDISCO & Olivia Jack](http://img.youtube.com/vi/IjuICGSpV0M/0.jpg)](http://www.youtube.com/watch?v=IjuICGSpV0M "halybyte with NERDDISCO & Olivia Jack")
 
@@ -70,7 +70,7 @@ Our slides are here:
 * [Olivia Jack](https://twitter.com/_ojack_) doing visuals with [hydra](https://hydra-editor.glitch.me/)
 
 
-## 🔊 DESTROY WITH SCIENCE + 🔊 dtinth & 🎆 Olivia Jack
+### 🔊 DESTROY WITH SCIENCE + 🔊 dtinth & 🎆 Olivia Jack
 
 [![DESTROY WITH SCIENCE + dtinth & Olivia Jack](http://img.youtube.com/vi/b2SJn4SWKVU/0.jpg)](http://www.youtube.com/watch?v=b2SJn4SWKVU "DESTROY WITH SCIENCE + dtinth & Olivia Jack")
 
