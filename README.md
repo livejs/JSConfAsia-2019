@@ -15,9 +15,8 @@ Our show was split into different parts:
     - [🔊 DESTROY WITH SCIENCE & 🎆 NERDDISCO](#%F0%9F%94%8A-destroy-with-science--%F0%9F%8E%86-nerddisco)
     - [🔊 2xAA & 🎆 Rumyra](#%F0%9F%94%8A-2xaa--%F0%9F%8E%86-rumyra)
   - [Open Jam](#open-jam)
-  - [🔊 halfbyte & 🎆 NERDDISCO](#%F0%9F%94%8A-halfbyte--%F0%9F%8E%86-nerddisco)
-  - [🔊 halfbyte & 🎆 Olivia Jack](#%F0%9F%94%8A-halfbyte--%F0%9F%8E%86-olivia-jack)
-  - [🔊 DESTROY WITH SCIENCE + 🔊 & 🎆 Olivia Jack](#%F0%9F%94%8A-destroy-with-science--%F0%9F%94%8A--%F0%9F%8E%86-olivia-jack)
+  - [🔊 halfbyte with 🎆 NERDDISCO & Olivia Jack](#%F0%9F%94%8A-halfbyte-with-%F0%9F%8E%86-nerddisco--olivia-jack)
+  - [🔊 DESTROY WITH SCIENCE + 🔊 dtinth & 🎆 Olivia Jack](#%F0%9F%94%8A-destroy-with-science--%F0%9F%94%8A-dtinth--%F0%9F%8E%86-olivia-jack)
   - [Keep in touch](#keep-in-touch)
   - [Location](#location)
   - [Thank you](#thank-you)
@@ -38,22 +37,44 @@ Our slides are here:
 
 [![halfbyte & NOSIGNAL](http://img.youtube.com/vi/vjivgO4mJLI/0.jpg)](http://www.youtube.com/watch?v=vjivgO4mJLI "halfbyte & NOSIGNAL")
 
-* [halfbyte]()
-* [NOSIGNAL]()
+* [halfbyte](https://twitter.com/halfbyte) doing music with [improjam](https://github.com/halfbyte/improjam)
+* [NOSIGNAL](https://twitter.com/_____nosignal) doing visuals with [modV](https://modv.js.org/)
 
 ### 🔊 DESTROY WITH SCIENCE & 🎆 NERDDISCO
 
+[![DESTROY WITH SCIENCE & NERDDISCO](http://img.youtube.com/vi/yMbfu5QiS7c/0.jpg)](http://www.youtube.com/watch?v=yMbfu5QiS7c "DESTROY WITH SCIENCE & NERDDISCO")
+
+* [DESTROY WITH SCIENCE](https://twitter.com/MattMcKegg) doing music with [baseline418](https://github.com/livejs/baseline418) + [rust-loop-drop](https://github.com/mmckegg/rust-loop-drop)
+* [NERDDISCO](https://twitter.com/TimPietrusky) doing visuals with [modV](https://modv.js.org)
+
 ### 🔊 2xAA & 🎆 Rumyra
+
+[![2xAA & Rumyra](http://img.youtube.com/vi/2IdVZ8Euv20/0.jpg)](http://www.youtube.com/watch?v=2IdVZ8Euv20 "2xAA & Rumyra")
+
+* [2xAA](https://twitter.com/_2xaa) doing music with 2 x Game Boy Advance
+* [Rumyra](https://twitter.com/Rumyra) doing visuals with [Vizra](https://github.com/Rumyra/Vizra)
+
 
 ---
 
 ## Open Jam
 
-## 🔊 halfbyte & 🎆 NERDDISCO
+## 🔊 halfbyte with 🎆 NERDDISCO & Olivia Jack
 
-## 🔊 halfbyte & 🎆 Olivia Jack
+[![halybyte with NERDDISCO & Olivia Jack](http://img.youtube.com/vi/IjuICGSpV0M/0.jpg)](http://www.youtube.com/watch?v=IjuICGSpV0M "halybyte with NERDDISCO & Olivia Jack")
 
-## 🔊 DESTROY WITH SCIENCE + 🔊 & 🎆 Olivia Jack
+* [halfbyte](https://twitter.com/halfbyte) doing music with [improjam](https://github.com/halfbyte/improjam)
+* [NERDDISCO](https://twitter.com/TimPietrusky) doing visuals with [modV](https://modv.js.org)
+* [Olivia Jack](https://twitter.com/_ojack_) doing visuals with [hydra](https://hydra-editor.glitch.me/)
+
+
+## 🔊 DESTROY WITH SCIENCE + 🔊 dtinth & 🎆 Olivia Jack
+
+[![DESTROY WITH SCIENCE + dtinth & Olivia Jack](http://img.youtube.com/vi/b2SJn4SWKVU/0.jpg)](http://www.youtube.com/watch?v=b2SJn4SWKVU "DESTROY WITH SCIENCE + dtinth & Olivia Jack")
+
+* [halfbyte](https://twitter.com/halfbyte) doing music with [improjam](https://github.com/halfbyte/improjam)
+* [dtinth](https://twitter.com/TimPietrusky) doing music with [Sonome](https://midi.dt.in.th/#/sonome)
+* [Olivia Jack](https://twitter.com/_ojack_) doing visuals with [hydra](https://hydra-editor.glitch.me/)
 
 ---
 
