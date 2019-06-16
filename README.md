@@ -36,9 +36,7 @@ Our slides are here:
 
 ### 🔊 halfbyte & 🎆 NOSIGNAL
 
-![halfbyte & NOSIGNAL](http://img.youtube.com/vi/vjivgO4mJLI/0.jpg)
-
-[YouTube](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![halfbyte & NOSIGNAL](http://img.youtube.com/vi/vjivgO4mJLI/0.jpg)](http://www.youtube.com/watch?v=vjivgO4mJLI "halfbyte & NOSIGNAL")
 
 * [halfbyte]()
 * [NOSIGNAL]()
