@@ -49,7 +49,7 @@
     "@dekk/speaker-notes": "^2.0.0-2",
     "@dekk/text": "^2.0.0-2",
     "@dekk/url": "^2.0.0-2",
-    "codemirror": "^5.36.0",
+    "codemirror": "^5.58.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-player": "^1.6.6",
